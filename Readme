@@ -1,0 +1,2 @@
+fid_cifar10 and fid_flower are codes to calculate fid scores between generated and test images for cifar10 and oxford102 datasets respectively.
+cifar_test_project file is to perform classification on generated cifar images.
