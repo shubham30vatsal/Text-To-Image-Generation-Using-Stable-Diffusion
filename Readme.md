@@ -1,8 +1,8 @@
-## Text-To-Image Generation Using Stable Diffusion
+# Text-To-Image Generation Using Stable Diffusion
 
 
 
-# This repositiory aims to fine-tune latest stable diffusion model on CIFAR-10 and Oxford-102 (Flower) dataset. The details of the repository have been listed below:
+## This repositiory aims to fine-tune latest stable diffusion model on CIFAR-10 and Oxford-102 (Flower) dataset. The details of the repository have been listed below:
 
 1. stable_diffusion_cifar.ipynb notebook contains the code to fine-tune CIFAR-10 on stable diffusion. Please download CIFAR-10 dataset and create the format of dataset as instructed in the notebook.
 2. stable_diffusion_flower.ipynb notebook contains the code to fine-tune CIFAR-10 on stable diffusion. Please download Oxford-10 (Flower) dataset and create the format of dataset as instructed in the notebook.
