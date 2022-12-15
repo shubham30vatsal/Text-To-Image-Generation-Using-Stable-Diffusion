@@ -10,3 +10,7 @@
 4. fid_cifar10.ipynb calculates the FID between generated test set and ground truth test set of CIFAR-10.
 5. fid_flower.ipynb calculates the FID between generated test set and ground truth test set of Oxford-102 (Flower).
 6. gan_test_cifar.ipynb evaluates the classification performance of one of the state of the art models on the generated CIFAR-10 dataset.
+
+
+
+Please contact sv2128@nyu.edu for any issues/bugs.
